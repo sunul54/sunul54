@@ -45,6 +45,7 @@
 #### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
    
+   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=htmx&logoColor=black">
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=#white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
