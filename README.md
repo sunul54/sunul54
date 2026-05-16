@@ -37,7 +37,7 @@
 ## Skills
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/unity-#FFFFFF?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/cplusplus-#FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=white">
   
 </div>
 
