@@ -42,7 +42,7 @@
   
 </div>
 
-#### I've used it before.
+#### I've learned it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
    
    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=htmx&logoColor=black">
